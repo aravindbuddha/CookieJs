@@ -1,0 +1,4 @@
+CookieJs
+========
+
+JavaScript Cookies framwork
